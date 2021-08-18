@@ -8,6 +8,7 @@
  <p>🎇Front-end Develop : OpenTogether (https://github.com/Team-O2) </p>
  <p>🎇Front-end Develop : 궁금붕어 (https://github.com/Hyoin-Kim/3second-goldfish-frontend) </p>
  <p>🎇Full-Stack Develop : Ghibli Blog (https://github.com/Hyoin-Kim/KiKi_Blog_Project) </p>
+ <p>🎇Full-Stack Develop : 반려동물 소통 미니 홈페이지 [진행중] (https://github.com/Hyoin-Kim/Mypet_MiniHomepage) </p>
  <p>🎇Net-Challenge : 드론 촬영물에서의 개인정보 보호를 위한 AI 기반 클라우드 서비스 (https://github.com/Hyoin-Kim/Face-Recog-by-socket.git) </p>
 
  
@@ -39,7 +40,7 @@
 <img src="https://img.shields.io/badge/JQuery-0040FF?style=flat-square&logo=JQuery&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-092E20?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tensorflow-4a154b?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Tensorflow-4a154b?style=flat-square&logo=Tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
