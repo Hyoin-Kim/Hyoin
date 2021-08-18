@@ -17,8 +17,9 @@
 <br/><br/>
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi980506@gmail.com)](mailto:jjuhee0913@gmail.com)
-[![Instagram Badge](http://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&link=https://blog.naver.com/chajuhui123)](https://www.instagram.com/luv.hi_)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi980506@gmail.com)](mailto:hi980506@gmail.com)
+[![Instagram Badge](http://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&link=https://www.instagram.com/luv.hi_)](https://www.instagram.com/luv.hi_)
+[![velog Badge](http://img.shields.io/badge/-velog-white?style=flat-square&logo=velog&link=https://velog.io/@hi980506)](https://velog.io/@hi980506)
 
   
 ﹏﹏﹏﹏﹏﹏﹏
