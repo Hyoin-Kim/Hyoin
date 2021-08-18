@@ -1,13 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-
-
-
-<br/>
  <h2>Hello, I'm Hyoin💛</h2>
  <p>My goal is to give good influence to society.</p>
-<br/>
- <h2>Education</h2>
  <p>2017.03 ~ : Seoul Women's University, Information Security</p>
 <br/>
  <h2>Project</h2>
@@ -29,8 +23,8 @@
   
 ﹏﹏﹏﹏﹏﹏﹏
 
-<br/><br/>
- 
+<br/>
+
 <h3>💻 Tech Stack 💻</h3>
  
 <br/>
