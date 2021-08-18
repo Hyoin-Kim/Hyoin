@@ -1,20 +1,31 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 
-<div align = "center">
+
 
 <br/>
-Hello, I'm Hyoin💛<br/>
-My goal is to give good influence to society.<br/>
+ <h2>Hello, I'm Hyoin💛</h2>
+ <p>My goal is to give good influence to society.</p>
+<br/>
+ <h2>Education</h2>
+ <p>2017.03 ~ : Seoul Women's University, Information Security</p>
+<br/>
+ <h2>Project</h2>
+ <p>🎇Front-end Develop : OpenTogether (https://github.com/Team-O2) </p>
+ <p>🎇Front-end Develop : 궁금붕어 (https://github.com/Hyoin-Kim/3second-goldfish-frontend) </p>
+ <p>🎇Full-Stack Develop : Ghibli Blog (https://github.com/Hyoin-Kim/KiKi_Blog_Project) </p>
+ <p>🎇Net-Challenge : 드론 촬영물에서의 개인정보 보호를 위한 AI 기반 클라우드 서비스 (https://github.com/Hyoin-Kim/Face-Recog-by-socket.git) </p>
+
+ 
+ <div align = "center">
 
 
 <br/><br/>
 
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajuhui123&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jjuhee0913@gmail.com)
-<!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123)
- --> 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi980506@gmail.com)](mailto:jjuhee0913@gmail.com)
+[![Instagram Badge](http://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&link=https://blog.naver.com/chajuhui123)](https://www.instagram.com/luv.hi_)
+
   
 ﹏﹏﹏﹏﹏﹏﹏
 
@@ -41,5 +52,6 @@ My goal is to give good influence to society.<br/>
 </div>
 
 <br/>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
