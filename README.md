@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/PHP-DF0101?style=flat-square&logo=PHP&logoColor=black"/>
 <img src="https://img.shields.io/badge/JQuery-0040FF?style=flat-square&logo=JQuery&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-092E20?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-4a154b?style=flat-square&logo=Tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
