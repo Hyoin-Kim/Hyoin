@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Notion-3A2F0B?style=flat-square&logo=Notion&logoColor=white"/>
 
 </div>
 
