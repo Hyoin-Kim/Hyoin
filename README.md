@@ -2,9 +2,13 @@
 
  <h2>Hello, I'm Hyoin💛</h2>
  <p>My goal is to give good influence to society.</p>
- <p>2017.03 ~ : Seoul Women's University, Information Security</p>
+ <p>2017.03 ~ 2022.02 : Seoul Women's University, Information Security</p>
+ <p>2018.08 ~ 2019.12 : 서울여자대학교 정보보호학과 소학회 SWLUG 수료 </p>
+ <p>2019.05 ~ 2019.11 : Net Challenge 네트워크 응용분야 아이디어 공모전 은상 수상</p>
+ <p>2021.03 ~ 2021.07 : 대학생 연합 IT벤처 창업 동아리 SOPT 28th - BE SOPT Web파트 수료 </p>
+ <p>2021.09 ~ 2021.12 : 대학생 연합 IT벤처 창업 동아리 SOPT 29th - BE SOPT Web파트 활동중 </p>
 <br/>
- <h2>Project</h2>
+ <h2>Web Project</h2>
  <p>🎇Front-end Develop : OpenTogether (https://github.com/Team-O2) </p>
  <p>🎇Front-end Develop : 궁금붕어 (https://github.com/Hyoin-Kim/3second-goldfish-frontend) </p>
  <p>🎇Full-Stack Develop : Ghibli Blog (https://github.com/Hyoin-Kim/KiKi_Blog_Project) </p>
