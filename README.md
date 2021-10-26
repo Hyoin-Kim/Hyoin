@@ -3,7 +3,9 @@
  <h2>Hello, I'm Hyoin💛</h2>
  <p>My goal is to give good influence to society.</p>
  <p>2017.03 ~ 2022.02 : Seoul Women's University, Information Security</p>
+ <p>2018.07 ~ 2018.08 : 서울여자대학교 소프트웨어중심대학 Programming Guru1 수료(HTML,UNITY,PYTHON 프로젝트 진행) </p>
  <p>2018.08 ~ 2019.12 : 서울여자대학교 정보보호학과 리눅스 소학회 SWLUG 수료 </p>
+ <p>2019.01 ~ 2019.02 : 서울여자대학교 소프트웨어중심대학 Programming Guru2 수료(ANDROID 해커톤 '질문있슈' 프로젝트 진행) </p>
  <p>2019.05 ~ 2019.11 : Net Challenge 네트워크 응용분야 아이디어 공모전 은상 수상</p>
  <p>2021.03 ~ 2021.07 : 대학생 연합 IT벤처 창업 동아리 SOPT 28th - BE SOPT Web파트 수료 </p>
  <p>2021.09 ~ 2021.12 : 대학생 연합 IT벤처 창업 동아리 SOPT 29th - BE SOPT Web파트 활동중 </p>
