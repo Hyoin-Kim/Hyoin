@@ -8,7 +8,7 @@
  <p>2019.01 ~ 2019.02 : 서울여자대학교 소프트웨어중심대학 Programming Guru2 수료(ANDROID 해커톤 '질문있슈' 프로젝트 진행) </p>
  <p>2019.05 ~ 2019.11 : Net Challenge 네트워크 응용분야 아이디어 공모전 은상 수상</p>
  <p>2021.03 ~ 2021.07 : 대학생 연합 IT벤처 창업 동아리 SOPT 28th - BE SOPT Web파트 수료 </p>
- <p>2021.09 ~ 2021.12 : 대학생 연합 IT벤처 창업 동아리 SOPT 29th - BE SOPT Web파트 활동중 </p>
+ <p>2021.09 ~ 2021.12 : 대학생 연합 IT벤처 창업 동아리 SOPT 29th - BE SOPT Web파트 활동 중 </p>
 <br/>
  <h2>Web Project</h2>
  <p>🎇Front-end Develop : OpenTogether (https://github.com/Team-O2) </p>
@@ -44,13 +44,14 @@
 <img src="https://img.shields.io/badge/PHP-DF0101?style=flat-square&logo=PHP&logoColor=black"/>
 <img src="https://img.shields.io/badge/JQuery-0040FF?style=flat-square&logo=JQuery&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
- <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-092E20?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-4a154b?style=flat-square&logo=Tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/Notion-3A2F0B?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-3A2F0B?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-BF00FF?style=flat-square&logo=Figma&logoColor=white"/>
 
 </div>
 
