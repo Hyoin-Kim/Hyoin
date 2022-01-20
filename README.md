@@ -2,8 +2,6 @@
 
  <h2>Hello, I'm Hyoin💛</h2>
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyoin-Kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
  <p>My goal is to give good influence to society.</p>
  <p>2017.03 ~ 2022.02 : Seoul Women's University, Information Security</p>
  <p>2018.07 ~ 2018.08 : 서울여자대학교 소프트웨어중심대학 Programming Guru1 수료(HTML,UNITY,PYTHON 프로젝트 진행) </p>
@@ -30,6 +28,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi980506@gmail.com)](mailto:hi980506@gmail.com)
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&link=https://www.instagram.com/luv.hi_)](https://www.instagram.com/luv.hi_)
+ 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyoin-Kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
 
   
 ﹏﹏﹏﹏﹏﹏﹏
