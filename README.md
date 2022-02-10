@@ -16,7 +16,6 @@
  <p>🎇Front-end Develop : OpenTogether (https://github.com/Team-O2) </p>
  <p>🎇Front-end Develop : 궁금붕어 (https://github.com/Hyoin-Kim/3second-goldfish-frontend) </p>
  <p>🎇Full-Stack Develop : Ghibli Blog (https://github.com/Hyoin-Kim/KiKi_Blog_Project) </p>
- <p>🎇Full-Stack Develop : 반려동물 소통 미니 홈페이지 [진행중] (https://github.com/Hyoin-Kim/Mypet_MiniHomepage) </p>
  <p>🎇Net-Challenge : 드론 촬영물에서의 개인정보 보호를 위한 AI 기반 클라우드 서비스 (https://github.com/Hyoin-Kim/Face-Recog-by-socket.git) </p>
 
  
