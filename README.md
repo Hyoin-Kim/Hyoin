@@ -12,9 +12,9 @@
  <p>2021.09 ~ 2021.12 : 대학생 연합 IT벤처 창업 동아리 SOPT 29th - BE SOPT Web파트 활동 중 </p>
 <br/>
  <h2>Web Project</h2>
- <p>🎇Front-end Develop : 너가소개서 (https://github.com/Neogasogaeseo) </p>
- <p>🎇Front-end Develop : OpenTogether (https://github.com/Team-O2) </p>
- <p>🎇Front-end Develop : 궁금붕어 (https://github.com/Hyoin-Kim/3second-goldfish-frontend) </p>
+ <p>🎇Front-end Develop : 너가소개서 대상 수상(https://github.com/Neogasogaeseo) </p>
+ <p>🎇Front-end Develop : OpenTogether 최우수상 수상(https://github.com/Team-O2) </p>
+ <p>🎇Front-end Develop : 궁금붕어 대상 (https://github.com/Hyoin-Kim/3second-goldfish-frontend) </p>
  <p>🎇Full-Stack Develop : Ghibli Blog (https://github.com/Hyoin-Kim/KiKi_Blog_Project) </p>
  <p>🎇Net-Challenge : 드론 촬영물에서의 개인정보 보호를 위한 AI 기반 클라우드 서비스 (https://github.com/Hyoin-Kim/Face-Recog-by-socket.git) </p>
 
