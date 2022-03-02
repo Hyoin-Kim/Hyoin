@@ -9,12 +9,12 @@
  <p>2019.01 ~ 2019.02 : 서울여자대학교 소프트웨어중심대학 Programming Guru2 수료(ANDROID 해커톤 '질문있슈' 프로젝트 진행) </p>
  <p>2019.05 ~ 2019.11 : Net Challenge 네트워크 응용분야 아이디어 공모전 은상 수상</p>
  <p>2021.03 ~ 2021.07 : 대학생 연합 IT벤처 창업 동아리 SOPT 28th - BE SOPT Web파트 수료 </p>
- <p>2021.09 ~ 2021.12 : 대학생 연합 IT벤처 창업 동아리 SOPT 29th - BE SOPT Web파트 활동 중 </p>
+ <p>2021.09 ~ 2021.12 : 대학생 연합 IT벤처 창업 동아리 SOPT 29th - BE SOPT Web파트 수료 </p>
 <br/>
  <h2>Web Project</h2>
  <p>🎇Front-end Develop : 너가소개서 대상 수상(https://github.com/Neogasogaeseo) </p>
  <p>🎇Front-end Develop : OpenTogether 최우수상 수상(https://github.com/Team-O2) </p>
- <p>🎇Front-end Develop : 궁금붕어 대상 (https://github.com/Hyoin-Kim/3second-goldfish-frontend) </p>
+ <p>🎇Front-end Develop : 궁금붕어 대상 수상(https://github.com/Hyoin-Kim/3second-goldfish-frontend) </p>
  <p>🎇Full-Stack Develop : Ghibli Blog (https://github.com/Hyoin-Kim/KiKi_Blog_Project) </p>
  <p>🎇Net-Challenge : 드론 촬영물에서의 개인정보 보호를 위한 AI 기반 클라우드 서비스 (https://github.com/Hyoin-Kim/Face-Recog-by-socket.git) </p>
 
